@@ -1,0 +1,27 @@
+﻿  main.cpp
+d:\projects\opencv\canny_affine_perspective\imagecorrection\imagecorrection\main.cpp(54): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\projects\opencv\canny_affine_perspective\imagecorrection\imagecorrection\main.cpp(55): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\projects\opencv\canny_affine_perspective\imagecorrection\imagecorrection\main.cpp(56): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\projects\opencv\canny_affine_perspective\imagecorrection\imagecorrection\main.cpp(61): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\projects\opencv\canny_affine_perspective\imagecorrection\imagecorrection\main.cpp(62): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  imageCorrection.vcxproj -> D:\Projects\openCV\canny_affine_perspective\imageCorrection\x64\Debug\imageCorrection.exe

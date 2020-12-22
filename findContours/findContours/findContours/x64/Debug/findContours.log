@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\projects\opencv\findcontours\findcontours\findcontours\main.cpp(18): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  findContours.vcxproj -> D:\Projects\openCV\findContours\findContours\x64\Debug\findContours.exe

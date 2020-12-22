@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\projects\opencv\machinelearning\kmeans_movie\kmeans_movie\main.cpp(78): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+d:\projects\opencv\machinelearning\kmeans_movie\kmeans_movie\main.cpp(79): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+d:\projects\opencv\machinelearning\kmeans_movie\kmeans_movie\main.cpp(80): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+d:\projects\opencv\machinelearning\kmeans_movie\kmeans_movie\main.cpp(98): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Kmeans_movie.vcxproj -> D:\Projects\openCV\MachineLearning\Kmeans_movie\x64\Debug\Kmeans_movie.exe

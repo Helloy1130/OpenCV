@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\projects\opencv\canny_affine_perspective\rotate_scale\rotate_scale\main.cpp(17): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  rotate_scale.vcxproj -> D:\Projects\openCV\canny_affine_perspective\rotate_scale\x64\Debug\rotate_scale.exe

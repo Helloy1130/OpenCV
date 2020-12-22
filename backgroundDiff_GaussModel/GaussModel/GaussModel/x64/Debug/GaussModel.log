@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\projects\opencv\backgrounddiff_gaussmodel\gaussmodel\gaussmodel\main.cpp(24): warning C4267: “=”: 从“size_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+d:\projects\opencv\backgrounddiff_gaussmodel\gaussmodel\gaussmodel\main.cpp(27): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\projects\opencv\backgrounddiff_gaussmodel\gaussmodel\gaussmodel\main.cpp(51): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\projects\opencv\backgrounddiff_gaussmodel\gaussmodel\gaussmodel\main.cpp(40): warning C4101: “dstI”: 未引用的局部变量
+  GaussModel.vcxproj -> D:\Projects\openCV\backgroundDiff_GaussModel\GaussModel\x64\Debug\GaussModel.exe
